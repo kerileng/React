@@ -1,0 +1,10 @@
+C:\Dev\Dev\C#\Employement Test\React\LoggerTester\obj\Debug\LoggerTester.csprojAssemblyReference.cache
+C:\Dev\Dev\C#\Employement Test\React\LoggerTester\obj\Debug\LoggerTester.csproj.CoreCompileInputs.cache
+C:\Dev\Dev\C#\Employement Test\React\LoggerTester\bin\Debug\LoggerTester.exe.config
+C:\Dev\Dev\C#\Employement Test\React\LoggerTester\bin\Debug\LoggerTester.exe
+C:\Dev\Dev\C#\Employement Test\React\LoggerTester\bin\Debug\LoggerTester.pdb
+C:\Dev\Dev\C#\Employement Test\React\LoggerTester\obj\Debug\LoggerTester.exe
+C:\Dev\Dev\C#\Employement Test\React\LoggerTester\obj\Debug\LoggerTester.pdb
+C:\Dev\Dev\C#\Employement Test\React\LoggerTester\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Dev\Dev\C#\Employement Test\React\LoggerTester\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Dev\Dev\C#\Employement Test\React\LoggerTester\obj\Debug\LoggerTester.csproj.CopyComplete

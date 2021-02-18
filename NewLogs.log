@@ -1,0 +1,32 @@
+ 2021/02/18 03:13:12 INF Logger initialized
+ 2021/02/18 03:13:12 INF Info message test
+ 2021/02/18 03:13:12 ERR Error message test
+ 2021/02/18 03:13:12 INF Demo of log started
+ 2021/02/18 03:13:12 INF i = 0
+ 2021/02/18 03:13:12 INF i = 1
+ 2021/02/18 03:13:12 INF i = 2
+ 2021/02/18 03:13:12 INF i = 3
+ 2021/02/18 03:13:12 INF i = 4
+ 2021/02/18 03:13:12 INF Demo of log finished
+ 2021/02/18 03:20:00 INF Logger initialized
+ 2021/02/18 03:20:00 INF Info message test
+ 2021/02/18 03:20:00 ERR Error message test
+ 2021/02/18 03:20:00 INF Demo of log started
+ 2021/02/18 03:20:00 INF i = 0
+ 2021/02/18 03:20:00 INF i = 1
+ 2021/02/18 03:20:00 INF i = 2
+ 2021/02/18 03:20:00 INF i = 3
+ 2021/02/18 03:20:00 INF i = 4
+ 2021/02/18 03:20:00 INF Demo of log finished
+ 2021/02/18 03:20:00 INF Logger destroyed
+ 2021/02/18 03:21:36 INF Logger initialized
+ 2021/02/18 03:21:36 INF Info message test
+ 2021/02/18 03:21:36 ERR Error message test
+ 2021/02/18 03:21:36 INF Demo of log started
+ 2021/02/18 03:21:36 INF i = 0
+ 2021/02/18 03:21:36 INF i = 1
+ 2021/02/18 03:21:36 INF i = 2
+ 2021/02/18 03:21:36 INF i = 3
+ 2021/02/18 03:21:36 INF i = 4
+ 2021/02/18 03:21:36 INF Demo of log finished
+ 2021/02/18 03:21:36 INF Logger destroyed
